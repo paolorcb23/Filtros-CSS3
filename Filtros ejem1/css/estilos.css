@@ -1,0 +1,6 @@
+#contenedor img
+{
+  width: 80%;
+  -webkit-filter: grayscale(80%);
+  filter: grayscale(80%);
+}
